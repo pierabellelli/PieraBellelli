@@ -6,7 +6,7 @@ I'am Piera Bellelli, I was born in 1983 and even though I've always been a web e
 
 
 
-- 🌱 I’m currently learning front-end development thanks to SheCodes, which is a great solution for a working mother and for those looking for simple explanations.
+🌱 I’m currently learning front-end development thanks to SheCodes, which is a great solution for a working mother and for those looking for simple explanations.
 
-- 📫 How to reach me: feel fre to send me an 📩 to piera.bellelli [@] gmail.com 
+📫 How to reach me: feel fre to send me an 📩 to piera.bellelli [@] gmail.com 
 
